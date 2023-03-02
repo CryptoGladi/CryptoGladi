@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](https://www.codewars.com/users/CryptoGladi/badges/large)
 
 ### About me
 
